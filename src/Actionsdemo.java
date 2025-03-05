@@ -9,6 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 
 public class Actionsdemo {
 
+	//minor change here
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "C:\\ProgramData\\chocolatey\\bin\\chromedriver.exe");
